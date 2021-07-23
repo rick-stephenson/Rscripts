@@ -1,6 +1,10 @@
-## Saving kate and KateCol functions into one source file "smooch"
+##This is a script to integrate the energy used from a motion tracking study
+##Originally written informally to assist a friend (Kate) with her work.
+
+
+## Saving kate and KateCol functions into one source file "KateScript"
 ## updated to add ability to choose plot to view
-## in source file muchasSmooches
+## in source file energyAnalysis
 
 ##import data into a working data frame to run functions
 
@@ -37,7 +41,7 @@ kateCol <- function(x,y)
 ##and data in the rest
 ##if time is not in first column, data and column headings will be wonky
 
-##function "kate" in script file smooch
+##function "kate" in script file KateScript
 kate <- function(x)
 {
 ##Loops through and itegrates every column in the data frame
