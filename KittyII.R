@@ -1,3 +1,7 @@
+## 2021 update:
+## This was a draft of an Arduino program for a motion activated
+## laser pointer cat toy. As a learning tool, I modeled the program using R.
+
 ## The RunKitty function is equivalent to the Loop in the Sketch
 ## or "main" in C.  This is the top level
 RunKitty <- function() {

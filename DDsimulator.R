@@ -1,3 +1,8 @@
+## Update 2021:
+## Program written for fun and training.
+## This is a simulator of a Mobile Game called Dungeon Dice.
+
+
 ## Simple hit point rolling simulator
 ## you and computer start with equal hit points
 ## and roll 2D6 until you quit and do that much damage

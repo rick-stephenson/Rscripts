@@ -1,7 +1,7 @@
 findReliabilityK <- function(x, alpha, target, side) {
   
-## inputs are a vector x to find the reliability from
-## x needs to be normal (shapiro tesxFindt performed and warning thrown if fails at .05)
+## inputs are a vector x to find the reliability from sample
+## x needs to be normal (shapiro test performed and warning thrown if fails at .05)
 ## target is one sided spec
 ## side tells us if we want upper or lower spec
 ## side = 1 means lower spec, side = 2 means upper spec

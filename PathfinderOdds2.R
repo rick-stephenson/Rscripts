@@ -1,3 +1,7 @@
+## Update 2021
+## Quick script to determine odds for Pathfinder Adventure Card Game dice rolls
+## or just roll the dice. Written for fun and learning.
+
 i <- 0
 success <- 1:100000
 

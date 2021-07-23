@@ -1,3 +1,7 @@
+## Update 2021
+## Replicating a program I wrote as an excercise in high school in Pascal
+## Written strictly for learning
+
 cornerA <- c(0,0)
 cornerB <- c(500,0)
 cornerC <- c(250, 433)
